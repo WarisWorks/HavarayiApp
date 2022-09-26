@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "bottomsheet",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Wouter125/BottomSheet",
+      "state" : {
+        "branch" : "main",
+        "revision" : "44ab4103c63b07777bef40b91d5a21c3a12dbda4"
+      }
+    },
+    {
+      "identity" : "lottie-ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/airbnb/lottie-ios.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "6de67b5332dec0632c041b08ccc158ddf373ce68"
+      }
+    }
+  ],
+  "version" : 2
+}
